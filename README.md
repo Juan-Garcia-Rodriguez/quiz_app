@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Just a little quiz app made with flutter and dart.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
